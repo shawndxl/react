@@ -17,3 +17,5 @@ class MyC extends Compoent {
 ToyedReact.render(
     <MyC></MyC>, document.body
 );
+
+//
